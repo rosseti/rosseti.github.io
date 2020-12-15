@@ -22,7 +22,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	2
 
-# url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@andreirosseti'
@@ -30,7 +30,7 @@ twitter_handle: '@andreirosseti'
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
-#google_analytics: UA-XXXXX-X
+google_analytics: G-KTXXSHGKRP
 
 # social icons and sharing options
 social:
