@@ -1,17 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Autodidata, Desenvolvedor de Software, Músico, Apaixonado por Pessoas e Bacharel em Sistemas de Informação pela Universidade da Região de Joinville - Univille.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+CO-Fundador e CTO na [FACE Digital](https://facedigital.com.br), empresa especializada no desenvolvimento de software em Joinville.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+CO-Fundador na [Eleve Software](https://elevecrm.com.br/), empresa especializada no desenvolvimento de produtos digitais. Atuação focada em Pesquisa de Desenvolvimento no produto EleveCRM.
