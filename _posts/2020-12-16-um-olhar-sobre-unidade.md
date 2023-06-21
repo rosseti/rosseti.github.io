@@ -3,7 +3,7 @@ layout: post
 title:  "Um olhar sobre a unidade"
 date:   2020-12-16 22:14:25
 categories: unidade
-#tags: featured
+# tags: featured
 image: /assets/article_images/2020-12-16-um-olhar-sobre-unidade/handshake-2009195_1920.png
 ---
 Em um dos momentos de meditação estive pensando muito a respeito da palavra "Deus" e como eu poderia explicar um conceito baseado na minha cosmovisão. Nesse caso em específico, eu forcei um pouco o significado utilizando 2 idiomas, português e inglês para explicar a idéia central.

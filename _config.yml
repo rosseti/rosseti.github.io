@@ -6,11 +6,11 @@ plugins:
 # Site settings
 title: "Andrei Rosseti"
 description: > # this means to ignore newlines until "email:"
-  Eleve a sua mentalidade to the #NextLevel
+  Eu inspiro e capacito pessoas no desenvolvimento de software! Lets grow together! 🚀💻 #softwaredeveloper #crypto #blockchain
 
 # email: andrei@facedigital.com.br
 #blog logo
-logo: "/assets/images/ar_logo.jpg"
+logo: "/assets/images/ar_logo.png"
 float_logo: false # true, false (default)
 
 # blog cover
@@ -18,9 +18,9 @@ cover: "/assets/images/galaxy-3608029_1920.jpg"
 
 name: 'Andrei Rosseti'
 author: 'Andrei Rosseti'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author.png"
 
-paginate:	2
+paginate:	5
 
 url: "https://rosseti.github.io" 
 baseurl: ""
@@ -34,6 +34,13 @@ google_analytics: G-KTXXSHGKRP
 
 # social icons and sharing options
 social:
+  - icon:	link
+    url:	https://middlex.com.br/andrei/
+    desc: Projetos
+    share_url: https://middlex.com.br/andrei/
+    share_title: ?text=
+    share_link: "&amp;url="
+
   - icon:	twitter
     url:	https://twitter.com/andreirosseti
     desc: Follow me on twitter
