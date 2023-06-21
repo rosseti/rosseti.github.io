@@ -14,7 +14,9 @@ logo: "/assets/images/ar_logo.png"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/galaxy-3608029_1920.jpg"
+# cover: "/assets/images/galaxy-3608029_1920.jpg"
+cover: "/assets/images/background_image_mdx.png"
+cover_footer: "/assets/images/galaxy-3608029_1920.jpg"
 
 name: 'Andrei Rosseti'
 author: 'Andrei Rosseti'
