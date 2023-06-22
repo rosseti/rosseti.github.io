@@ -5,6 +5,10 @@ date:   2023-06-20 22:14:25
 # categories: tecnologia, teste
 # tags: featured
 # image: /assets/article_images/2020-12-16-um-olhar-sobre-unidade/handshake-2009195_1920.png
+carousels:
+  - images: 
+    - image: /assets/article_images/2023-06-20-17anos-face-digital/1.png
+    - image: /assets/article_images/2023-06-20-17anos-face-digital/2.png
 ---
 Querido time FACE Digital,
 
