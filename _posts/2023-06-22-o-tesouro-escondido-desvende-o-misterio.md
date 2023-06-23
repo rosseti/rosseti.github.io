@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O Tesouro Escondido: Desvende o mistério"
-date:   2023-06-20 22:14:25
+date:   2023-06-22 22:14:25
 # categories: tecnologia, teste
 # tags: featured
 image: /assets/article_images/2023-06-22-o-tesouro-escondido-desvende-o-misterio/bau.jpg
