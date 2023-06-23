@@ -255,6 +255,7 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   github-pages
+  jekyll-sitemap
   jemoji
 
 BUNDLED WITH
