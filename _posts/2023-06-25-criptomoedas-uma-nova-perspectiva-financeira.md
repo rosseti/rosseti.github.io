@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Criptomoedas: Uma Nova Perspectiva Financeira 🚀💡"
-date:   2023-06-25 08:10:00
+date:   2023-06-24 08:10:00
 # categories: tecnologia, teste
 # tags: featured
 # image: /assets/article_images/2023-06-23-a-importancia-da-riqueza-geracional/opportunities.jpg
