@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "💪💼 O Poder das Criptomoedas no Empreendedorismo 🚀💡"
-date:   2023-06-26 08:10:00
+title:  "O Poder das Criptomoedas no Empreendedorismo"
+date:   2023-06-26 08:11:00
 # categories: tecnologia, teste
 # tags: featured
 # image: /assets/article_images/2023-06-23-a-importancia-da-riqueza-geracional/opportunities.jpg
